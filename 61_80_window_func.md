@@ -77,7 +77,7 @@ LIMIT 100
 
 68. **複数テーブルの単純結合、JOIN, INNER JOIN, LEFT JOIN, RIGHT JOINの違いを調べよ** 
 
-![join_diagram.png](../assets/join_diagram.png)
+![join_diagram.png](./assets/join_diagram.png)
 
 <br>
 
